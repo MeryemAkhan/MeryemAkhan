@@ -4,6 +4,6 @@
 You can browse my projects from my repositories.
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeryemAkhan&show_icons=true&locale=tr&layout=compact" alt="MeryemAkhan" /></p>
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MeryemAkhan&show_icons=true&theme=gradient)
